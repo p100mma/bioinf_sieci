@@ -1,0 +1,6 @@
+install.packages("BiocManager")
+BiocManager::install("WGCNA")
+install.packages("plyr")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("tidyr")
